@@ -7,3 +7,4 @@ L'analyse des correspondances est une méthode de réduction des dimensions pour
 <p align="center">
   <img src="https://github.com/mouna0404/AFC/blob/1d35f2b64369d5b5f95cbec169ae00aeae070792/CA%20factor%20map.png">
   </p>
+Comme vous voyez, des marques comme GAP, H&M et Uniqlo sont associées à la jeunesse, à la convivialité et à l'énergie, tandis que des marques comme Chanel et Tiffany sont associées au luxe et à l'éclat. Cette méthode de visualisation est utile car les informations de haute dimension (11 marques et 9 attributs) sont réduites dans un plan bidimensionnel et la distance sur ce plan est significative.
